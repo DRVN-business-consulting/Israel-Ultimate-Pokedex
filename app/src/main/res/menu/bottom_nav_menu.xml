@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_pokemon_list"
+        android:icon="@drawable/ic_pokemon"
+        android:title="Pokémon List" />
+    <item
+        android:id="@+id/nav_favorites"
+        android:icon="@drawable/ic_favorites"
+        android:title="Favorites" />
+    <item
+        android:id="@+id/nav_trainer"
+        android:icon="@drawable/ic_trainer"
+        android:title="Trainer" />
+</menu>
